@@ -1,0 +1,17 @@
+{
+  "name": "node-red-contrib-alaa",
+  "version": "1.0.0",
+  "description": "A sample Node-RED node that converts payload to lowercase (TP exercise).",
+  "main": "node.js",
+  "scripts": {},
+  "keywords": [
+    "node-red",
+    "node-red-node"
+  ],
+  "license": "Apache-2.0",
+  "node-red": {
+    "nodes": {
+      "lower-case": "node.js"
+    }
+  }
+}
